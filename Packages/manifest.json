@@ -9,6 +9,10 @@
     }
   ],
   "dependencies": {
+"io.extendreality.tilia.camerarigs.trackedalias.unity": "1.0.7",
+"io.extendreality.tilia.camerarigs.unityxr": "1.0.9",
+"io.extendreality.tilia.input.unityinputmanager": "1.2.2",
+"io.extendreality.tilia.interactions.interactables.unity": "1.13.4",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "3.4.9",
