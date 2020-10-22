@@ -25,6 +25,8 @@
     "com.unity.xr.legacyinputhelpers": "2.1.4",
     "com.unity.xr.oculus.standalone": "2.38.4",
     "com.unity.xr.openvr.standalone": "2.0.5",
+    "io.extendreality.tilia.interactions.snapzone.unity": "1.1.22",
+    "io.extendreality.tilia.visuals.tooltip.unity": "1.1.6",
     "io.extendreality.tilia.camerarigs.trackedalias.unity": "1.0.7",
     "io.extendreality.tilia.camerarigs.unityxr": "1.0.9",
     "io.extendreality.tilia.input.unityinputmanager": "1.2.2",
