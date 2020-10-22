@@ -9,10 +9,6 @@
     }
   ],
   "dependencies": {
-"io.extendreality.tilia.camerarigs.trackedalias.unity": "1.0.7",
-"io.extendreality.tilia.camerarigs.unityxr": "1.0.9",
-"io.extendreality.tilia.input.unityinputmanager": "1.2.2",
-"io.extendreality.tilia.interactions.interactables.unity": "1.13.4",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "3.4.9",
@@ -29,7 +25,10 @@
     "com.unity.xr.legacyinputhelpers": "2.1.4",
     "com.unity.xr.oculus.standalone": "2.38.4",
     "com.unity.xr.openvr.standalone": "2.0.5",
-    "io.extendreality.vrtk.prefabs": "1.1.7",
+    "io.extendreality.tilia.camerarigs.trackedalias.unity": "1.0.7",
+    "io.extendreality.tilia.camerarigs.unityxr": "1.0.9",
+    "io.extendreality.tilia.input.unityinputmanager": "1.2.2",
+    "io.extendreality.tilia.interactions.interactables.unity": "1.13.3",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
