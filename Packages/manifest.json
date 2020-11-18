@@ -31,6 +31,7 @@
     "io.extendreality.tilia.camerarigs.unityxr": "1.0.9",
     "io.extendreality.tilia.input.unityinputmanager": "1.2.2",
     "io.extendreality.tilia.interactions.interactables.unity": "1.13.3",
+"io.extendreality.tilia.camerarigs.spatialsimulator.unity": "1.1.19",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
