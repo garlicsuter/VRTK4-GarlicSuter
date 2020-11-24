@@ -1,4 +1,4 @@
-<b>11-16-2020 - 11-20-2020</b>
+<b>11-16-2020 - 11-20-2020</b> <br>
 John:Create a grabbale object that looks like a chair
 Mr. Suter: Create a snap zone for the chair to "snap" into, that shows a translucent mesh of the chair so the user knows what to drop in
 Jennifer: Play snapping sound whenever an object is dropped in.
